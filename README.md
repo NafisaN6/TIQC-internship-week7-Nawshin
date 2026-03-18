@@ -38,6 +38,6 @@ node server.js
 ### 4. Open in browser
 http://localhost:3000
 
-## 📚 Notes
+## Notes
 - The `node_modules` folder is not included in this repository.  
 - Run `npm install` to install dependencies.  
