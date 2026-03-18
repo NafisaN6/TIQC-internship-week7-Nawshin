@@ -23,21 +23,6 @@ This is a simple web-based AI chatbot that allows users to type messages and rec
 
 ---
 
-## Project Structure
-chatbot-project/
-│
-├── public/
-│   ├── index.html
-│   ├── script.js
-│   └── style.css
-│
-├── server.js
-├── package.json
-├── package-lock.json
-├── README.md
-
----
-
 ## Setup Instructions
 
 ### 1. Install dependencies
